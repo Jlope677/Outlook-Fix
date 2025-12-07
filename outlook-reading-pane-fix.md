@@ -20,6 +20,7 @@ Conversation view and/or reading pane settings were disabled in **Outlook Web La
    - Set **Reading Pane: "All messages from the selected conversation"** ✔️  
 5. Saved changes.
 6. Verified with the user — **conversation emails now appear in the reading pane without needing to click individually**.
+<img width="852" height="537" alt="outlook2" src="https://github.com/user-attachments/assets/8aebbe38-8049-42c2-9941-157cd49ca292" />
 
 ---
 
@@ -44,9 +45,4 @@ This ticket helped me understand how Outlook conversation view and reading pane 
 
 ---
 
-### 📸 Screenshot Placeholders
-
-| Issue | Settings Fix | Working After Fix |
-|-------|--------------|------------------|
-| *Screenshot_here* | *Screenshot_here* | *Screenshot_here* |
 
